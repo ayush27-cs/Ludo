@@ -2,7 +2,7 @@
 
 ## 📌 Introduction
 This is a Python-based **Ludo Game** project that simulates the classic board game.  
-As a beginner, I used **Copilot for basic guidance** (like understanding imports and syntax), but the **game logic, structure, and implementation were done by me**.  
+As a beginner, I used **Copilot for basic guidance** (like understanding imports and some things some basic thing to make creative), but the **game logic, structure, and implementation were done by ME**.  
 
 ## ✨ Features
 - 🎲 Dice roll simulation  
