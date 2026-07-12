@@ -25,8 +25,7 @@ def play_ludo(num_players, track_length=27):
 
                 if positions[player] >= track_length:
                     print(f"\n🏆 Player {player+1} wins the game!")
-                    return  # End the game
+                    return
 
-# Ask for number of players
 num_players = int(input("Enter number of players (2-5): "))
 play_ludo(num_players)
