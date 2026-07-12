@@ -12,4 +12,4 @@ array=[12,13,11,10,5,6,9,8]
 print("Original array",array)
 
 insertionsort(array)
-print("Sorted array:", array)
+print("Sorted array is :", array)
