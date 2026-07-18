@@ -76,4 +76,4 @@ while True:
         print("Invalid operation.")
 
 
-    #end of code..created a simple calculator
+    #a simple and silly calculator as a beginner and after i will make command on python then i will make perfect and precise...
