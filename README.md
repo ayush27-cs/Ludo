@@ -18,4 +18,5 @@ As a beginner, I used **Copilot for basic guidance** (like understanding imports
 1. Clone the repository:
    ```bash
    git clone https://github.com/ayush27-cs/ludo-game.git
+   ...
 
