@@ -4,7 +4,7 @@ This is a Python-based **Ludo Game** project that simulates the classic board ga
 As a beginner, I used **Copilot for basic guidance** (like understanding imports and some things some basic thing to make creative), but the **game logic, structure, and implementation were done by ME**.  
 
 ## ✨ Features
-- 🎲 Dice roll simulation  
+- 🎲 Dice roll simulation 
 - 👥 Multiple players support  
 - 🏆 Win condition detection  
 - 🔄 Turn-based gameplay  
