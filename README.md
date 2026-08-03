@@ -12,7 +12,7 @@ As a beginner, I used **Copilot for basic guidance** (like understanding imports
 ## 🛠️ Technologies Used 
 - Python (core logic) 
 - GitHub (version control & hosting)  
-- Copilot (basic guidance for imports and syntax)  
+- Copilot (basic guidance for imports and syntax)   
 
 ## 🚀 How to Run
 1. Clone the repository:
