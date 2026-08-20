@@ -8,7 +8,6 @@ As a beginner, I used **Copilot for basic guidance** (like understanding imports
 - 👥 Multiple players support      
 - 🏆 Win condition detection   
 - 🔄 Turn-based gameplay
-    
 ## 🛠️ Technologies Used 
 - Python (core logic) 
 - GitHub (version control & hosting)  
