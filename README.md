@@ -5,7 +5,7 @@ As a beginner, I used **Copilot for basic guidance** (like understanding imports
 
 ## ✨ Features   
 - 🎲 Dice roll simulation    
-- 👥 Multiple players support      
+- 👥 Multiple players support        
 - 🏆 Win condition detection     
 - 🔄 Turn-based gameplay
 ## 🛠️ Technologies Used 
