@@ -7,7 +7,7 @@ As a beginner, I used **Copilot for basic guidance** (like understanding imports
 - 🎲 Dice roll simulation    
 - 👥 Multiple players support        
 - 🏆 Win condition detection     
-- 🔄 Turn-based gameplay
+- 🔄 Turn-based gameplay 
 ## 🛠️ Technologies Used 
 - Python (core logic)    
 - GitHub (version control & hosting)  
