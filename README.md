@@ -1,4 +1,4 @@
-# 🎲🎲Ludo Game (Python) by Ayush Singh Thakur
+ # 🎲🎲Ludo Game (Python) by Ayush Singh Thakur
 ## 📌 Introduction
 This is a Python-based **Ludo Game** project that simulates the classic board game..   
 As a beginner, I used **Copilot for basic guidance** (like understanding imports and some things some basic thing to make creative), but the **game logic, structure, and implementation were done by ME**....        
@@ -9,7 +9,7 @@ As a beginner, I used **Copilot for basic guidance** (like understanding imports
 - 🏆 Win condition detection     
 - 🔄 Turn-based gameplay 
 ## 🛠️ Technologies Used 
-- Python (core logic)    
+- Python (core logic)     
 - GitHub (version control & hosting)  
 - Copilot (basic guidance for imports and syntax)   
 
